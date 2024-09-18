@@ -25,17 +25,20 @@
 - API Integration: Fetching meme images from an external API.
 
 ## Project Structure
+
+```bash
 .
 ├── public
 ├── src
 │   ├── components
-│   │   ├── Header.js        # Custom meme component with props
+│   │   ├── Header.js        # Header section
 │   │   └── Form.js    # Form for user input
 │   ├── App.js             # Main app component
 │   ├── index.js           # Entry point
 │   └── styles.css         # Basic styles
 ├── package.json
 └── README.md
+
 
 ## Future Improvements
 - Add user options for customizing text size, font, and color.

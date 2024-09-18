@@ -24,6 +24,22 @@
 - CSS: Basic styling for layout and user interaction.
 - API Integration: Fetching meme images from an external API.
 
+  
+## Future Improvements
+- Add user options for customizing text size, font, and color.
+- Implement meme download functionality.
+- Enhance mobile responsiveness and accessibility.
+
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+## How to Run
+- 1. Clone the repository: git clone https://github.com/daduwa/meme-generator.git
+- 2. Navigate to the project directory: cd meme-generator
+- 3. Install dependencies: npm install
+- 4. npm start
+
 ## Project Structure
 
 ```bash
@@ -39,26 +55,7 @@
 ├── package.json
 └── README.md
 
-.
-## Future Improvements
-- Add user options for customizing text size, font, and color.
-- Implement meme download functionality.
-- Enhance mobile responsiveness and accessibility.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-
-<img src="./src/assets/meme-screenshot--1.png" alt="Meme Example" width="300">
-
-## How to Run
-- 1. Clone the repository: git clone https://github.com/daduwa/meme-generator.git
-- 2. Navigate to the project directory: cd meme-generator
-- 3. Install dependencies: npm install
-- 4. npm start
-
-## License
+```bash
 
 Visit [Meme Generator](https://daduwa.github.io/meme-generator/) to create your memes.
 

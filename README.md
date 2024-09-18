@@ -39,7 +39,7 @@
 ├── package.json
 └── README.md
 
-
+.
 ## Future Improvements
 - Add user options for customizing text size, font, and color.
 - Implement meme download functionality.
